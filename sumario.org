@@ -1,0 +1,15 @@
+#+title: Algumas modalidades de venda internacional: sumário
+#+AUTHOR: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil num:nil
+#+LATEX_COMPILER: xelatex
+
+1. Introdução
+2. A venda internacional documentária
+3. A venda internacional de produtos farmacêuticos
+4. A venda internacional de objetos de arte
+5. A venda internacional de /software/
+6. A venda internacional de bens digitais (criptomoedas e /non-fungible tokens/)
+7. A venda internacional de navios
+8. A venda internacional de aeronaves
+9. A venda internacional de eletricidade
