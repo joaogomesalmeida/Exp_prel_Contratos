@@ -9,7 +9,6 @@
 3. A venda internacional de produtos farmacêuticos
 4. A venda internacional de objetos de arte
 5. A venda internacional de /software/
-6. A venda internacional de bens digitais (criptomoedas e /non-fungible tokens/)
-7. A venda internacional de navios
-8. A venda internacional de aeronaves
-9. A venda internacional de eletricidade
+6. A venda internacional de navios
+7. A venda internacional de aeronaves
+8. A venda internacional de eletricidade
